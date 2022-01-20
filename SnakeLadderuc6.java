@@ -33,7 +33,7 @@ public class SnakeLadderuc6 {
 				}
 				else {
 					pos = 0;
-					System.out.println("New Position is: "+pos);
+					System.out.println("New Position is: "+pos);                           
 				}
 				break;
 			default:
